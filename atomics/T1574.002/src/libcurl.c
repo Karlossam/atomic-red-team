@@ -17,7 +17,7 @@ extern __declspec(dllexport) void curl_easy_unescape(void) { return; }
 
 void DllUnregisterServer(void)
 {
-	system("calc.exe");
+	system("cmd.exe");
 	return;
 }
 
